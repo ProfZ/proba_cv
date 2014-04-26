@@ -41,7 +41,7 @@ namespace tracking{
 	extern Sablon sablon;
 
 	extern float cart_x0,cart_y0;
-	extern std::chrono::steady_clock::duration timeSample;
+	//extern std::chrono::steady_clock::duration timeSample;
 }
 
 #endif

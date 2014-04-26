@@ -55,7 +55,7 @@ int main()
 	uB = uG = uR = 255;
 	cvSetMouseCallback(CAMERA_OUTPUT,mouseCallbackHandler);
 
-	//tracking::sablon = tracking::Sablon::_TOP_BOTTOM_S;
+	tracking::sablon = tracking::Sablon::_TOP_BOTTOM_S;
 
 	//chrono::steady_clock clock;
 	//chrono::steady_clock::time_point tp = clock.now();
